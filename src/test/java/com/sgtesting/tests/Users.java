@@ -27,5 +27,9 @@ public class Users {
 	{
 		System.out.println("It is Method4 statement");
 	}
+	@Test
+	public void method5(){
+		System.out.println("this is method 5");
+	}
 
 }
